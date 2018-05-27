@@ -1,0 +1,3 @@
+Przykładowy teskt w celu wypełnienia tego pliku.
+Ala ma kota.
+Kot wlazł na płot.
