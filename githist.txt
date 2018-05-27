@@ -1,0 +1,479 @@
+    1  help
+    2  clear
+    3  ps
+    4  cd /
+    5  ls
+    6  ls -lh
+    7  clear
+    8  cd ~
+    9  clea
+   10  clear
+   11  dir
+   12  ls
+   13  ls -lh
+   14  clear
+   15  pwd
+   16  ls
+   17  ls -lh
+   18  cd Documents/
+   19  ls
+   20  ls -lh
+   21  clea
+   22  clea
+   23  clear
+   24  ls 
+   25  ls -ls
+   26  ls -lh
+   27  ls -lh
+   28  ls -l
+   29  ls -lh
+   30  help ls
+   31  man ls
+   32  help ls
+   33  ls -a
+   34  ls
+   35  ls -la
+   36  clear
+   37  ls -lh
+   38  cd Moje obrazy
+   39  cd 'Moje obrazy'
+   40  ls
+   41  cear
+   42  clear
+   43  cd ..
+   44  cd .
+   45  cd ..
+   46  cd Documents/
+   47  ls
+   48  cd Moje\ obrazy
+   49  cd ../
+   50  cd ../
+   51  clear
+   52  ls
+   53  ls
+   54  cd ../mariu/Downloads/
+   55  ls -lh
+   56  cd ~
+   57  clear.exe 
+   58  clear
+   59  ls
+   60  cd ~
+   61  ls -lh
+   62  mkdir SDA
+   63  ls -lh
+   64  cd SDA/
+   65  cd ~
+   66  cd SDA/
+   67  touch plik
+   68  ls
+   69  ls -lh
+   70  vim
+   71  clear
+   72  ls
+   73  ls -lh
+   74  nano
+   75  vi plik
+   76  vim plik
+   77  vi plik
+   78  vi plik
+   79  vi plik
+   80  vi plik
+   81  clear
+   82  vi plik
+   83  ls -lh
+   84  vi plik
+   85  cat plik
+   86  echo plik
+   87  cat plik
+   88  echo "Cos tam" >> plik
+   89  cat plik
+   90  clea
+   91  clear
+   92  ls
+   93  ls -lh
+   94  cp plik plik2
+   95  ls -lh
+   96  cat plik
+   97  cat plik2
+   98  cp plik ../Pictures/Saved\ Pictures/
+   99  ls ../Pictures/Saved\ Pictures/
+  100  cat ../Pictures/Saved\ Pictures/
+  101  cat ../Pictures/Saved\ Pictures/plik 
+  102  rm ../Pictures/Saved\ Pictures/plik 
+  103  cat ../Pictures/Saved\ Pictures/plik 
+  104  ls ../Pictures/Saved\ Pictures/
+  105  clear
+  106  ls
+  107  cd ..
+  108  ls
+  109  cd SDA SDA2
+  110  cp SDA SDA2
+  111  cp -r SDA SDA2
+  112  ls
+  113  rm -r SDA2
+  114  ls
+  115  cd SDA/
+  116  mv plik2 plik_zajecia
+  117  ls
+  118  ls -lh
+  119  rm plik_zajecia 
+  120  ls -la
+  121  clear
+  122  git help
+  123  git help
+  124  git config user.name "Mariusz Andrzejewski"
+  125  git config --global user.name "Mariusz Andrzejewski"
+  126  git config --global user.email "mariusz.andrzejewski85@gmail.com"
+  127  git config --list
+  128  vi .gitconfig
+  129  cd ~
+  130  vi .gitconfig 
+  131  clear
+  132  cd SDA/
+  133  ls
+  134  mdir repo
+  135  mkdir repo
+  136  ls
+  137  ls
+  138  cd repo/
+  139  ls
+  140  git init
+  141  ls -a
+  142  vi .git/
+  143  clea
+  144  clear
+  145  ls
+  146  ls
+  147  ls -la
+  148  cd .git/
+  149  ls
+  150  ls -lh
+  151  cd .
+  152  cd ..
+  153  clear
+  154  ls
+  155  ls -lh
+  156  ls
+  157  ls -la
+  158  touch plik
+  159  ls 
+  160  touh cwicz
+  161  vi cwicz
+  162  pwd
+  163  clear
+  164  git status
+  165  git add plik 
+  166  git add cwicz
+  167  git commit -m "Pierwszy commit"
+  168  cp ../plik .
+  169  ls
+  170  ls -lh
+  171  vi plik
+  172  git log
+  173  git log
+  174  git log -1
+  175  git log -3
+  176  git log -10
+  177  git status
+  178  git log --graph --oneline --all
+  179  git status
+  180  git add plik
+  181  git add cwicz
+  182  git commit
+  183  git status -s
+  184  ls 
+  185  git commit -m "Drugi commit"
+  186  git status -s
+  187  git status
+  188  git status
+  189  git status
+  190  git add cwicz
+  191  git status
+  192  git commit
+  193  git commit
+  194  git log
+  195  git log -1 -p
+  196  git log
+  197  git status
+  198  touch plik1 plik2 plik3
+  199  ls
+  200  git status
+  201  git add plik*
+  202  git status
+  203  git commit
+  204  git status
+  205  git ls
+  206  touch tekstowy.txt
+  207  git add tekstowy.txt 
+  208  git commit
+  209  git status
+  210  git rm  tekstowy.txt 
+  211  git status
+  212  git mv plik1 plik100
+  213  git status
+  214  git add plik100
+  215  git status
+  216  ls
+  217  git status
+  218  touch psujemy.txt
+  219  git add psujemy.txt 
+  220  git status
+  221  git commit
+  222  git log
+  223  git log
+  224  git head
+  225  head
+  226  git --help
+  227  clear.exe 
+  228  clear
+  229  git help
+  230  git branch
+  231  clear
+  232  git branch
+  233  git log
+  234  git branch freatureX
+  235  git branch
+  236  git checkout featureX
+  237  git checkout freatureX
+  238  git status
+  239  git log
+  240  git branch
+  241  git log
+  242  git log
+  243  git log
+  244  git log
+  245  git log
+  246  clear
+  247  git log
+  248  touch plik4.txt
+  249  vim plik4.txt
+  250  git status
+  251  git add plik4.txt 
+  252  git commit -m "Commit na freatureX"
+  253  git log
+  254  git checkout master
+  255  git log
+  256  ls
+  257  vim plik2
+  258  git status 
+  259  git add plik2 
+  260  git commit -m "Master zmiana"
+  261  git log
+  262  git branch
+  263  git checkout  freatureX 
+  264  clear
+  265  git checkout master
+  266  git checkout -b galazDoMerge
+  267  git branch
+  268  ls
+  269  touch plik4.txt
+  270  vim plik4.txt
+  271  git add galazDoMerge.txt
+  272  touch galazDoMerge.txt
+  273  git add galazDoMerge.txt
+  274  git commit -m "GalzDoMerge commit"
+  275  git checkout master
+  276  touch master.txt
+  277  git add master.txt
+  278  git commmit -m "Master zmiana"
+  279  git checkout galazDoMerge
+  280  git branch
+  281  list
+  282  ls
+  283  vi plik4.txt
+  284  cl
+  285  clear
+  286  git log
+  287  git status
+  288  ls
+  289  clear
+  290  git chekcout master
+  291  git status
+  292  rm plik4.txt
+  293  git status
+  294  clear
+  295  git branch
+  296  git galazDoMerge.txt
+  297  git checkout galazDoMerge 
+  298  git status
+  299  git log -2
+  300  git checkout master
+  301  git checkout galazDoMerge 
+  302  git checkout master
+  303  git checkout galazDoMerge 
+  304  git checkout master
+  305  git checkout master
+  306  git status
+  307  git merge galazDoMerge 
+  308  git merge galazDoMerge 
+  309  git status
+  310  git add master.txt 
+  311  git commit -m "Master commit nowy"
+  312  git merge galazDoMerge 
+  313  git branch
+  314  git branch -d freatureX
+  315  git branch -D freatureX
+  316  git branch
+  317  git checkout 30be456
+  318  git status
+  319  git checkout master
+  320  ls
+  321  vim master.txt
+  322  git add master.txt
+  323  git commit -m "Dopisanie nowej linijki..."
+  324  ls
+  325  vim galazDoMerge.txt 
+  326  git status
+  327  git commit --amend
+  328  git status
+  329  git add galazDoMerge.txt 
+  330  git commit --amend 
+  331  git log
+  332  it status
+  333  g
+  334  git status
+  335  git status
+  336  git checkout -- master.txt
+  337  git status
+  338  git help
+  339  git chekout help
+  340  clear
+  341  git status
+  342  git log
+  343  clear
+  344  ls
+  345  git log
+  346  clearg
+  347  clearg
+  348  ls
+  349  git log
+  350  s
+  351  git
+  352  git help
+  353  ls
+  354  touch test.java
+  355  vi test.java 
+  356  git checkout -b psujaca
+  357  touch test.java
+  358  vi test.java 
+  359  vi test.java
+  360  git add test.java
+  361  git commit -m "Piekne hello world"
+  362  git checkout master
+  363  git add test.java
+  364  ls
+  365  git add test.java
+  366  git commit -m "Hello world na masterze"
+  367  git merge psujaca
+  368  git merge psujaca
+  369  git merge psujaca
+  370  git merge psujaca
+  371  git checkout master
+  372  git merge psujaca
+  373  git add test.java
+  374  git status
+  375  git merge psujaca
+  376  git commit konflikt_naprawiony
+  377  git add test.java 
+  378  git commit -m "Konflikt rozwiazany"
+  379  git merge psujaca
+  380  git add test.java 
+  381  git commit -m "Konflikt rozwiazany2"
+  382  ls
+  383  vi test.java 
+  384  git init
+  385  git clone https://github.com/Kaef/programming1.git
+  386  ls
+  387  cd programming1/
+  388  ls
+  389  cd src/
+  390  ls
+  391  cd main/
+  392  ls
+  393  cd ..
+  394  cld
+  395  cd ..
+  396  clea
+  397  clear
+  398  ls
+  399  ls -lh
+  400  cd ..
+  401  clear
+  402  ls
+  403  ls -lh
+  404  cd ..
+  405  clear
+  406  ls -lh
+  407  cd ćwiczenia\ z\ Javy/
+  408  ls
+  409  cd programming1/
+  410  ls
+  411  git remote add upstream https://github.com/Kaef/programming1
+  412  ls
+  413  ls -lh
+  414  cd ćwiczenia\ z\ Javy/
+  415  ls
+  416  git remote add upstream https://github.com/Kaef/programming1
+  417  git fetch upstream
+  418  git merge upstream/master
+  419  git log
+  420  git remote add upstream https://github.com/Kaef/programming1.git
+  421  git log
+  422  find -name Excercises6.java
+  423  gitk
+  424  pwd
+  425  ls
+  426  cd programming1/
+  427  ls
+  428  tree
+  429  less src/main/java/pl/kszafran/sda/algo/exercises/Exercises6.java 
+  430  git log
+  431  cd ..
+  432  git log
+  433  ls -a
+  434  cd programming1/
+  435  ls -a
+  436  cd ..
+  437  ls
+  438  ls
+  439  less src/main/java/pl/kszafran/sda/algo/exercises/Exercises6.java 
+  440  git status
+  441  ls
+  442  ls
+  443  git status
+  444  git ugi
+  445  git gui
+  446  git log
+  447  ls
+  448  rm -r src/
+  449  kls
+  450  ls
+  451  ls -a
+  452  rm -r .git .gitignore .idea/
+  453  rm -rf .git .gitignore .idea/
+  454  git status
+  455  ls -a
+  456  rm pom.xml 
+  457  cd programming1/
+  458  git status
+  459  git remote add upstream https://github.com/Kaef/programming1.git
+  460  git fetch upstream
+  461  git stash
+  462  git status
+  463  git stash list
+  464  gitk stash@{0}
+  465  git merge upstream/master
+  466  git stash pop
+  467  exit
+  468  ls
+  469  ls -lh
+  470  echo *.class
+  471  echo *.class >> .gitingnore
+  472  ls
+  473  rm .gitingnore 
+  474  echo *.class >> .gitignore
+  475  git add .gitignore 
+  476  git commit -m "add gitignore"
+  477  githist.txt
+  478  history
+  479  history > githist.txt
